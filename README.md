@@ -11,6 +11,9 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ Pʀᴏғᴇssɪᴏɴᴀʟ-Aɴsʜ ʀᴇᴘᴏs
 
 ---
 
+
+<img src="https://envs.sh/z7n.jpg" alt="Ansh Profile Image" style="border-radius: 50%; width: 100px;">
+
 ## 🌟 Features
 - **Clean and Modular Code:** Focus on writing efficient, readable, and maintainable code.
 - **Diverse Technologies:** Working with multiple programming languages and frameworks.
@@ -67,5 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <div align="right">
-  <img src="https://envs.sh/z7n.jpg" alt="Ansh Profile Image" style="border-radius: 50%; width: 100px;">
+  
 </div>
