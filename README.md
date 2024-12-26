@@ -63,6 +63,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <img src="https://envs.sh/z7n.jpg" alt="Built with Love">
   🚀 Built with ❤️ by Ansh
 </p>
+
+<div align="right">
+  <img src="https://envs.sh/z7n.jpg" alt="Ansh Profile Image" style="border-radius: 50%; width: 100px;">
+</div>
